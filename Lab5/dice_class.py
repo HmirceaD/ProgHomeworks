@@ -20,7 +20,8 @@ class Dice:
 
 
 if __name__ == "__main__":
-    dice_obj = Dice()
-    dice_obj.roll_dice()
-    dice_obj.roll_dice()
-    dice_obj.roll_dice()
+    dice_obj1 = Dice()
+    dice_obj2 = Dice()
+    dice_obj1.roll_dice()
+    dice_obj2.roll_dice()
+
